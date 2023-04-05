@@ -1,0 +1,7 @@
+theme: minima
+title: "NR talks"
+description: "Talk announcements from Neural Reckoning group."
+show_downloads: false
+github:
+  is_project_page: false
+exclude: README.md
