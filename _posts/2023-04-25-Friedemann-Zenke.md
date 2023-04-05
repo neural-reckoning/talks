@@ -9,7 +9,7 @@ permalink: /zenke-predictive/
 
 **Speaker**: [Friedemann Zenke](http://fzenke.net/)
 
-![Friedemann Zenke](portrait_fzenke.jpg)
+![Friedemann Zenke](../images/portrait_fzenke.jpg)
 
 **Date and time**: 25 April 2023, 11am UK time
 
